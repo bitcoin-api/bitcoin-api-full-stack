@@ -15,7 +15,7 @@
   "dependencies": {
     "@bitcoin-api/full-stack-api": "^30.1.1",
     "@bitcoin-api/full-stack-backend": "^2.1.2",
-    "aws-sdk": "^2.501.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.1.0",
     "qrcode": "^1.4.1",
     "yargs": "^15.4.1"
